@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Website of Peter Snipes"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -14,7 +14,7 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 # Syntax highlighting
-pygmentsUseClasses = true   
+pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
