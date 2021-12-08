@@ -1,13 +1,13 @@
 ---
-author: Hugo Authors
-title: Series Part 2
+author: Peter Snipes
+title: About Me
 date: 2021-08-15
-description: A brief guide to how to setup series part 2
+description: A brief overview of me
 series:
   - series-setup
 ---
 
-In this second part of the series we'll show you where to find the full series
+My name is Peter Snipes I am a junior at Allegheny College and I am majoring in Computer Science with a minor in Economics.
 
 <!--more-->
 
