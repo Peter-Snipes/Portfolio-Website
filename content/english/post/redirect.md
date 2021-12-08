@@ -9,6 +9,6 @@ tags = [
 redirectUrl="file:///C:/Users/psnip/Desktop/cmpsc480/Portfolio-Website/Resume%202021.pdf"
 +++
 
-Forwarding to [gomyresume](file:///C:/Users/psnip/Desktop/cmpsc480/Portfolio-Website/Resume%202021.pdf) using `redirectUrl`
+Forwarding to [My-Resume](https://docs.google.com/document/d/12JWtRkvu4mi56cXYmt5zYMxox144F_UelLmR-nWqZ8I/edit?usp=sharing) using `redirectUrl`
 
 {{% loading %}}
