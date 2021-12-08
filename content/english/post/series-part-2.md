@@ -1,6 +1,7 @@
 ---
 author: Peter Snipes
 title: About Me
+date: "2021-08-12"
 description: A brief overview of me
 series:
   - series-setup
