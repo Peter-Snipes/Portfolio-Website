@@ -6,9 +6,9 @@ description = "Usage of redirectUrl"
 tags = [
     "redirect", "redirectUrl",
 ]
-redirectUrl="file:///C:/Users/psnip/Desktop/cmpsc480/Portfolio-Website/Resume%202021.pdf"
+redirectUrl="file:///C:/Users/psnip/Downloads/Resume%202021%20(2).pdf"
 +++
 
-Forwarding to [My-Resume](https://docs.google.com/document/d/12JWtRkvu4mi56cXYmt5zYMxox144F_UelLmR-nWqZ8I/edit?usp=sharing) using `redirectUrl`
+Forwarding to [My-Resume]"file:///C:/Users/psnip/Downloads/Resume%202021%20(2).pdf" using `redirectUrl`
 
 {{% loading %}}
