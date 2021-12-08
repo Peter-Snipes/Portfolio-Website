@@ -17,16 +17,17 @@
   url = "/about/"
 
   [[main]]
-  name = "Contact"
+  name = "Resume"
   weight = 400
+  identifier = "Resume"
+  url = "/resume/"
+
+  [[main]]
+  name = "Contact"
+  weight = 500
   identifier = "contact"
   url = "/contact/"
 
-  [[main]]
-  name = "Resume"
-  weight = 500
-  identifier = "Resume"
-  url = "/resume/"
 
   [[footer]]
   name = "imprint"
