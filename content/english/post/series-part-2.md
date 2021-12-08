@@ -1,7 +1,6 @@
 ---
 author: Peter Snipes
 title: About Me
-date: 2021-08-12
 description: A brief overview of me
 series:
   - series-setup
@@ -15,4 +14,4 @@ I have a very wide range of interest in different career paths in Computer Scien
 are Software Development, Cyber Security, Web Development, Front end and Back end computing.
 
 However If I get the chance to get a internship in a different category Ill gladly take it because I was as much experience
-I can get to better my understanding and general knowledge of Cmpsc. 
+I can get to better my understanding and general knowledge of Cmpsc.
