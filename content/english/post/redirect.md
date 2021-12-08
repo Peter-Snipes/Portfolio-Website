@@ -4,7 +4,9 @@ title = "Resume"
 date = "2021-08-12"
 description = "Usage of redirectUrl"
 
-redirectUrl= "file:///C:/Users/psnip/Desktop/cmpsc480/Portfolio-Website/Resume%202021.pdf"
+redirectUrl="https://gohugo.io"
 +++
 
-Forwarding to [My Resume](file:///C:/Users/psnip/Desktop/cmpsc480/Portfolio-Website/Resume%202021.pdf) using `redirectUrl`
+Forwarding to [gohugo](https://gohugo.io) using `redirectUrl`
+
+{{% loading %}}
