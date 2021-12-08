@@ -1,36 +1,29 @@
-  [[main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
+[[main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
 
-  [[main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+[[main]]
+name = "Posts"
+weight = 200
+identifier = "posts"
+url = "/post/"
 
-  [[main]]
-  name = "Project"
-  weight = 300
-  identifier = "project"
-  url = "/project/"
+[[main]]
+name = "About"
+weight = 300
+identifier = "about"
+url = "/about/"
 
-  [[main]]
-  name = "Resume"
-  weight = 400
-  identifier = "Resume"
-  url = "/resume/"
+[[main]]
+name = "Contact"
+weight = 400
+identifier = "contact"
+url = "/contact/"
 
-  [[main]]
-  name = "Contact"
-  weight = 500
-  identifier = "contact"
-  url = "/contact/"
-
-
-  [[footer]]
-  name = "imprint"
-  weight = 1
-  identifier = "imprint"
-  url = "/imprint/"
+[[footer]]
+name = "imprint"
+weight = 1
+identifier = "imprint"
+url = "/imprint/"
