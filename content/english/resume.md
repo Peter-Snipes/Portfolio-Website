@@ -1,8 +1,8 @@
 ---
-author = "Peter Snipes"
-title = "Resume"
-description = "Usage of redirectUrl"
-redirectUrl = "Resume_2021.pdf"
+author: "Peter Snipes"
+title: "Resume"
+description: "Usage of redirectUrl"
+redirectUrl: "Resume_2021.pdf"
 ---
 
 ### Resume
