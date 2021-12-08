@@ -1,25 +1,41 @@
 ---
-author: Peter Snipes
-title: Experience
-description: A brief example on I think I am qualified for the position I am applying for.
+author: Hugo Authors
+title: Series Part 1
+date: 2021-08-14
+description: A brief guide to how to setup series part 1
 series:
   - series-setup
 ---
 
-I have had plenty of jobs that required many skills that are required to be successful in a professional
-cmpsc workplace.
+In this first part of the series we'll show you how to create a series
 
 <!--more-->
 
-In different jobs I had growing up I've developed many different skills that I use till this day. various skills
-that I developed are problem solving skills, patience, teamwork, leadership, time management, and many more.
-All these skills that I possess are essential for any person to have in a professional work setting.
+As a first step we need to add series as a taxonomy. We can do this by editing the `config.toml`.  
+Note: We always need to define the existing taxonomies as well.
 
-Although I dont have any professional experience in a cmpsc job I have taken a bunch of classes that are preparing
-me for the next step in my life. Different classes that I've taken that helped me over the years are:
- - CMPSC*100*	Computational Expression
- - CMPSC*101*	Data Abstraction
- - CMPSC*102*	Discrete Structures
- - CMPSC*200*	Computer Organization
- - CMPSC*203*	Software Engineering
- - CMPSC*480*	Software Innovation I
+```toml
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+```
+
+Now we have the series enabled, the next thing we need to do is add the series name in the FrontMatter.
+For our example we'll use this post and the next part.
+
+As you can see we've set the series to `series-setup`. We also do the same in the next parts of the series.  
+This end results should be a Front Matter that looks similar to this:
+
+```md
+---
+author: Hugo Authors
+title: Series Part 1
+date: 2021-08-14
+description: A brief guide to how to setup series part 1
+series:
+  - series-setup
+---
+```
+
+Each individual post will now also show the other posts in the series under the `Posts in this Series` heading.
