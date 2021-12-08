@@ -3,7 +3,8 @@ title = "I'm Peter Snipes"
 author = "Peter Snipes"
 #copyright = "2020-2021"
 description = "Call me Peter"
-profilePicture = "images/profile.jpg"
+profilePicture = "https://th.bing.com/th/id/R.6d5041f2c9dcfa85d801afddb5100d1c?rik=NOHQ3u4j0oPxRQ&pid=ImgRaw&r=0"
+#images/profile.jpg
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
