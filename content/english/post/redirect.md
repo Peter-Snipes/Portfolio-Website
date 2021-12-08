@@ -1,14 +1,12 @@
 +++
-author = "Hugo Authors"
-title = "Redirect"
-date = "2021-06-20"
+author = "Peter Snipes"
+title = "Resume"
+date = "2021-08-12"
 description = "Usage of redirectUrl"
 tags = [
     "redirect", "redirectUrl",
 ]
-redirectUrl="https://gohugo.io"
+redirectUrl="file:///C:/Users/psnip/Desktop/cmpsc480/Portfolio-Website/Resume%202021.pdf"
 +++
 
-Forwarding to [gohugo](https://gohugo.io) using `redirectUrl`
-
-{{% loading %}}
+Forwarding to [gomyresume](file:///C:/Users/psnip/Desktop/cmpsc480/Portfolio-Website/Resume%202021.pdf) using `redirectUrl`
