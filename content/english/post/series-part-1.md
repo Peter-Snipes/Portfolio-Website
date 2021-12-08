@@ -1,7 +1,7 @@
 ---
 author: Hugo Authors
 title: Series Part 1
-date: 2021-08-14
+date: 2021-08-12
 description: A brief guide to how to setup series part 1
 series:
   - series-setup

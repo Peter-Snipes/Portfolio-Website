@@ -1,7 +1,7 @@
 ---
 author: Peter Snipes
 title: About Me
-date: 2021-08-15
+date: 2021-08-12
 description: A brief overview of me
 series:
   - series-setup
@@ -11,7 +11,8 @@ My name is Peter Snipes I am a junior at Allegheny College and I am majoring in 
 
 <!--more-->
 
-When you created a series, you'll probably want to link to the full set of blogposts.  
-In this example we used `series-setup` as our series name.
+I have a very wide range of interest in different career paths in Computer Science. Different things that I am interested in
+are Software Development, Cyber Security, Web Development, Front end and Back end computing.
 
-This means we can now go to `http://localhost:1313/series/series-setup/` to see all the blog posts of this serie.
+However If I get the chance to get a internship in a different category Ill gladly take it because I was as much experience
+I can get to better my understanding and general knowledge of Cmpsc. 
