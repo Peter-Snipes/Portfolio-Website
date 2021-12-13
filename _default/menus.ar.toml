@@ -13,7 +13,7 @@
   [[main]]
   name = "حول"
   weight = 300
-  identifier = "about"
+  identifier = "project"
   url = "/ar/about/"
 
   [[main]]
