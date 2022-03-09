@@ -17,6 +17,12 @@ identifier = "project"
 url = "/about/"
 
 [[main]]
+name = "Blog"
+weight = 300
+identifier = "Blog"
+url = "/Blog/"
+
+[[main]]
 name = "Contact"
 weight = 400
 identifier = "contact"
