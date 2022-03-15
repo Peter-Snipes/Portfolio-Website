@@ -14,13 +14,13 @@ url = "/post/"
 name = "Project"
 weight = 300
 identifier = "project"
-url = "/about/"
+url = "/Project/"
 
 [[main]]
-name = "Blog"
+name = "Research"s
 weight = 300
-identifier = "Blog"
-url = "/Blog/"
+identifier = "Research"
+url = "/Research/"
 
 [[main]]
 name = "Contact"

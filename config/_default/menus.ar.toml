@@ -10,6 +10,12 @@
   identifier = "posts"
   url = "/ar/post/"
 
+ [[main]]
+  name = "Research"
+  weight = 300
+  identifier = "Research"
+  url = "/ar/Research/"
+  
   [[main]]
   name = "حول"
   weight = 300

@@ -17,10 +17,10 @@
   url = "/Research/"
 
   [[main]]
-  name = "About"
+  name = "Project"
   weight = 300
-  identifier = "about"
-  url = "/about/"
+  identifier = "Project"
+  url = "/Project/"
 
   [[main]]
   name = "Contact"

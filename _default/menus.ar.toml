@@ -11,10 +11,16 @@
   url = "/ar/post/"
 
   [[main]]
+  name = "Research"
+  weight = 300
+  identifier = "Research"
+  url = "/Research/"
+
+  [[main]]
   name = "حول"
   weight = 300
   identifier = "project"
-  url = "/ar/about/"
+  url = "/ar/project/"
 
   [[main]]
   name = "للتواصل"
