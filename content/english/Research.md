@@ -6,7 +6,5 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-
-
-
+In my reasearch I will log down all the websites and other things I found useful while completing the start up of my senior project. 
  
