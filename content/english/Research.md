@@ -6,9 +6,9 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-In my reasearch I will log down all the websites and other things I found useful while completing the start up of my senior project. this will be a Blog post about all the discoveries and things ive found out/ or did during this project
 
-What Colors Help Children Learn?
-https://www.aop.com/blog/what-colors-help-children-learn#:~:text=Bold%20reds%20and%20oranges%20may,a%20child's%20attention%20to%20details.&text=The%20ranking%20of%20color%20preference,violet%2C%20orange%2C%20and%20yellow.&text=Small%20children%20naturally%20prefer%20luminous,orange%2C%20yellow%2C%20and%20pink.
+## [MathRunner Research Paper](file:///C:/Users/psnip/Downloads/SeniorThesis.pdf)
+
+During my senior year at Allegheny College, we were tasked with conducting independent research in a field of our choosing. With a passion for game development and education, I decided to delve into the realm of educational math games for children in the early stages of learning addition and subtraction. My research focused on exploring how incorporating color psychology into these math games could potentially bring significant benefits to young learners. By combining my interests in game development, mathematics education, and the psychological impact of colors, I aimed to investigate innovative approaches to enhance children's learning experiences in the realm of mathematics. The ultimate goal of my research was to contribute to the development of engaging and effective educational tools that fostered a deeper understanding and enjoyment of math for young learners.
  
  
