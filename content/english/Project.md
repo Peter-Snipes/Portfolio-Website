@@ -1,6 +1,6 @@
 +++
-title = "MathRunner"
-description = "My senior comprehensive project that I had to pass in order to graduate. MathRunner is a childrens game based on color phychology in order to help kids with addition and subtraction skills."
+title = "Projects"
+description = "A few projects that I've worked on over the past few years both team based and individually."
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
