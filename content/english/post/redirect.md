@@ -6,4 +6,4 @@ description = "My Resume"
 
 +++
 
-Forwarding to [Peter Snipes Resume](/Resume_2023.pdf) using `redirectUrl`
+Forwarding to [Peter Snipes Resume](Resume_2023.pdf) using `redirectUrl`
