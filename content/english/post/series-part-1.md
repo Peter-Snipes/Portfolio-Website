@@ -21,6 +21,16 @@ me for the next step in my life. Different classes that I've taken that helped m
  - CMPSC*100*	Computational Expression
  - CMPSC*101*	Data Abstraction
  - CMPSC*102*	Discrete Structures
+ - CMPSC*100-03* Computational Expression
  - CMPSC*200*	Computer Organization
+ - CMPSC*201-00* Programming Languages
+ - CMPSC*202-00* Algorithm Analysis
  - CMPSC*203*	Software Engineering
+ - CMPSC*302-00* Web Development
+ - CMPSC*311-00* Robotic Agents
+ - CMPSC*400-00* Operating Systems
  - CMPSC*480*	Software Innovation I
+ - CMPSC*481* Software Innovation II
+ - CMPSC*580-00* Junior Seminar
+ - CMPSC*600-04* Senior Thesis I
+ - CMPSC*610-04* Senior Thesis II
