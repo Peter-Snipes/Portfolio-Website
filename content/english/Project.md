@@ -1,7 +1,7 @@
 +++
 title = "Projects"
 description = "A few projects that I've worked on over the past few years both team based and individually."
-date = "2019-02-28"
+date = "2023-05-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
