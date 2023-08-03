@@ -1,7 +1,7 @@
 +++
 author = "Peter Snipes"
 title = "Resume"
-date = "2023-08-12"
+date = "2023-05-28"
 description = "My Resume"
 
 +++

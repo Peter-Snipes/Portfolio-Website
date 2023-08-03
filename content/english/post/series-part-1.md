@@ -1,7 +1,7 @@
 ---
 author: Peter Snipes
 title: Experience
-date: "2023-08-12"
+date: "2023-05-28"
 description: A brief example on I think I am qualified for the position I am applying for.
 series:
   - series-setup

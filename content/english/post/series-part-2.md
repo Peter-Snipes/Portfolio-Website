@@ -1,7 +1,7 @@
 ---
 author: Peter Snipes
 title: About Me
-date: "2023-08-12"
+date: "2023-05-28"
 description: A brief overview of me
 series:
   - series-setup
